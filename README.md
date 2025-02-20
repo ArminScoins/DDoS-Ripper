@@ -24,25 +24,25 @@ To use the DRipper type the following commands in Termux:
 `cd DDoS-Ripper`
 `$ ls`
 
-`$ python3 DRipper.py` 
+`$ python2 DRipper.py` 
 
 ## USGAE
-`python3 DRipper.py -s [ip Address] -t 135`
+`python DRipper.py -s [ip Address] -t 135`
 
-`example: python3 DRipper.py -s 0.00.00.00 -t 135`
+`example: python DRipper.py -s 0.00.00.00 -t 135`
 
 ## For Debian-based GNU/Linux distributions
 To use the application, type in the following commands in GNU/Linux terminal.
 
 `sudo apt install git`
-`git clone https://github.com/palahsu/DDoS-Ripper.git`
+`git clone https://github.com/ArminScoins/DDoS-Ripper.git`
 `cd DDoS-Ripper`
 `$ ls`
 `$ python3 DRipper.py` OR `python2 DRipper.py`
 
 ## For Windows
 
-`git clone https://github.com/palahsu/DDoS-Ripper`
+`git clone https://github.com/ArminScoins/DDoS-Ripper`
 
 `cd DDoS-Ripper`
 ` ls`
@@ -83,7 +83,7 @@ Or Facebook <a href="https://www.facebook.com/aduri.knox01/"><img src="https://i
 
 ## Follow on:
 <p align="left">
-<a href="https://github.com/palahsu"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/ArminScoins"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p><p align="left">
 <a href="https://www.facebook.com/aduri.knox01/"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
 </p><p align="left">
